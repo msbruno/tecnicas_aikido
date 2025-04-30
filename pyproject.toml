@@ -2,8 +2,10 @@
 name = "tecnicas-aikido"
 version = "0.1.0"
 description = ""
+package-mode = false
+
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Bruno",email = "ms.bruno1@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
