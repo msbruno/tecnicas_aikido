@@ -2,7 +2,6 @@
 name = "tecnicas-aikido"
 version = "0.1.0"
 description = ""
-package-mode = false
 
 authors = [
     {name = "Bruno",email = "ms.bruno1@gmail.com"}
@@ -20,3 +19,8 @@ dependencies = [
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "tecnicas-aikido"
+version = "0.1.0"
+package-mode = false
